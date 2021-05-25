@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../../../src/components/index.ts"],"sourcesContent":["\nimport Menubar from \"./menubar\"\n\nexport default { Menubar };"],"names":[],"mappings":";;;;AAGA,YAAe,EAAE,OAAO,SAAA,EAAE;;;;"}

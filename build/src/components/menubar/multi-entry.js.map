@@ -1,0 +1,1 @@
+{"version":3,"file":"multi-entry.js","sources":["../../../../src/components/menubar/index.tsx"],"sourcesContent":["import React from 'react'\nimport \"./style.scss\"\n\nconst Menubar = () => (\n    <div>Menubar</div>\n)\n\nexport default Menubar;"],"names":["React"],"mappings":";;;;;;;;;IAGM,OAAO,GAAG,cAAM,QAClBA,+DAAkB;;;;"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"multi-entry.js","sources":["../../../src/components/index.ts"],"sourcesContent":["import Bottombar from \"./bottombar\";\nimport Menubar from \"./menubar\"\n\nexport default { Bottombar, Menubar };"],"names":[],"mappings":";;;;;AAGA,YAAe,EAAE,SAAS,SAAA,EAAE,OAAO,SAAA,EAAE;;;;"}
